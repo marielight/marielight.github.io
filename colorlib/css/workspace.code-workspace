@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\quickfix"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "colorlib"
+	}
+}
